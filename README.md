@@ -48,5 +48,3 @@ Agenda:
 [Libros](https://fundacionomardengo-my.sharepoint.com/:f:/g/personal/almacenamientofod_fod_ac_cr/EsJ5glrhbW5MobYIGvkpOUkBaMXm4bc27qq9KECWlPO_pw?e=cs9aYn)<br>
 [Referencia de Processing](https://processing.org/reference/)<br>
 [Open Processing](https://www.openprocessing.org/)<br>
-[Referencia de p5.js](https://p5js.org/es/reference/)<br>
-[Editor en línea p5.js](https://editor.p5js.org/)<br>
