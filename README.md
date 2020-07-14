@@ -1,5 +1,5 @@
 # FOD Taller Comunicación Serial con Processing y Arduino
-Una introducción a la comunicación entre Processing y Arduino para asesores de de LIE++
+Una introducción a la comunicación entre Processing y Arduino para asesores de LIE++
 
 ## Día 1
 ### Antes de comenzar:
