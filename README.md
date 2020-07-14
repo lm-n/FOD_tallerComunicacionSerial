@@ -34,13 +34,8 @@ Agenda:
 ### 4) Interacción con el mundo
 - Comunicación Serial
 
-### 5) Visualizando datos
-- Representado datos:
-  - [Urban Garden](https://fathom.info/urbag/)
-  - [Animal Trade](https://www.nationalgeographic.com/animal-trade/#!)
-  - [Feltron](http://feltron.com/Editorial.html)
 
-### Tarea cortísima
+### Tarea cortísima para el día 2
   - Lea el extracto del capítulo dos [Proyectos](https://fundacionomardengo-my.sharepoint.com/:b:/g/personal/almacenamientofod_fod_ac_cr/EZQjU0qmZfdPj0fViZcIjUcBfI4BJrESuQ0YcOg-tEYAbQ?e=9v2JDW) del libro Lifelong Kindergarten por Mitch Resnick.
   - Piense en una idea de proyecto que utilice lo aprendido el día de hoy. 
 
