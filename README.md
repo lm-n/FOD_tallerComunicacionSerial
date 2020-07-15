@@ -22,7 +22,6 @@ Agenda:
 ### 2) Descubriendo Processing
 - El entorno
 - Dibujos simples
-- Rotaciones y translaciones
 
 ### 3) Animación e Interacción en la pantalla
 - Funciones principales
@@ -34,8 +33,23 @@ Agenda:
 ### 4) Interacción con el mundo
 - Comunicación Serial
 
+## Tarea cortísima para el día 2
+  - Lea [Vendrán Lluvias Suaves por Ray Bradbury](https://fundacionomardengo-my.sharepoint.com/:w:/g/personal/almacenamientofod_fod_ac_cr/EV-UjqhDavNNhG7g8odrig8Bmaf_doahvqkrc1Qu4SC0PQ?e=YvlgMH)
 
-### Tarea cortísima para el día 2
+## Día 2
+
+Agenda:
+### 1) Repaso
+
+### 1) De Processing a Arduino
+- Enviar datos de Processing a Arduino
+
+### 2) Datos analógicos
+- Enviar datos en ambas direcciones
+
+### 3) Miniproyecto
+
+## Tarea cortísima para el día 3
   - Lea el extracto del capítulo dos [Proyectos](https://fundacionomardengo-my.sharepoint.com/:b:/g/personal/almacenamientofod_fod_ac_cr/EZQjU0qmZfdPj0fViZcIjUcBfI4BJrESuQ0YcOg-tEYAbQ?e=9v2JDW) del libro Lifelong Kindergarten por Mitch Resnick.
   - Piense en una idea de proyecto que utilice lo aprendido el día de hoy. 
 
