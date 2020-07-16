@@ -47,11 +47,14 @@ Agenda:
 ### 2) Datos analógicos
 - Enviar datos en ambas direcciones
 
-### 3) Miniproyecto
-
-## Tarea cortísima para el día 3
-  - Lea el extracto del capítulo dos [Proyectos](https://fundacionomardengo-my.sharepoint.com/:b:/g/personal/almacenamientofod_fod_ac_cr/EZQjU0qmZfdPj0fViZcIjUcBfI4BJrESuQ0YcOg-tEYAbQ?e=9v2JDW) del libro Lifelong Kindergarten por Mitch Resnick.
-  - Piense en una idea de proyecto que utilice lo aprendido el día de hoy. 
+### 3) Creando Pulgas
+- Escribir la intención de un proyecto (por ejemplo: "Cuando un botón conectado al pin 7 es presionado en la pantalla se dibuja una flor de color rojo. Si alguien toca la flor se enciende el LED"). 
+- Hacer una lista de seis posibles errores y sus soluciones. 
+- Entregar el párrafo y los errores en este link https://forms.gle/YbfMaLJKJoL7KtaJ9  
+## Día 3
+- Sesión de trabajo en el link del taller de 7am a 8am.: Escribir el código con los errores y tenerlo listo antes de las 8am del día 3.
+- Conectarse al taller a las 7:50 am.
+- Depurar el código de otra persona. 
 
 ## Recursos
 [Libros](https://fundacionomardengo-my.sharepoint.com/:f:/g/personal/almacenamientofod_fod_ac_cr/EsJ5glrhbW5MobYIGvkpOUkBaMXm4bc27qq9KECWlPO_pw?e=cs9aYn)<br>
