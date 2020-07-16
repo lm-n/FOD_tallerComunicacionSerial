@@ -17,10 +17,10 @@
 ### Instrucciones:
 1) Escribir la intención de un proyecto (por ejemplo: "Cuando un botón conectado al pin 7 es presionado en la pantalla se dibuja una flor de color rojo. Si alguien toca la flor se enciende el LED"). 
 2) Hacer una lista de seis posibles errores y sus soluciones. 
-3) Entregar el párrafo de los  https://forms.gle/YbfMaLJKJoL7KtaJ9 
+3) Entregar el párrafo y los errores en este link https://forms.gle/YbfMaLJKJoL7KtaJ9 
 4) Escribir el código con los errores y tenerlo listo antes de las 8am del día 3.
 5) Sesión de trabajo en el link del taller del día 3 de 7am a 8am.
-6)  Conectarse al taller a las 7:50 am.
+6) Conectarse al taller a las 7:50 am.
 7) Depurar el código de otra persona. 
 
 
